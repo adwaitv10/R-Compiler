@@ -1,0 +1,29 @@
+1 j1 = 1
+2 sum = 0
+3 i = 0
+4 j1 = 1
+5 goto 15
+6 t1 % j1 10
+7 if t1 == 0 goto 9
+8 goto 12
+9 print j1
+10 print newline
+11 goto 13
+12 sum + sum i
+13 i + i 1
+14 j1 * i 2
+15 if i <= 99 goto 6
+16 goto 17
+17 print sum
+18 print newline
+19 Array a 40
+20 a [ 0 ] = 4
+21 k = 1
+22 a [ k ] = i
+23 i + i 12
+24 l = a [ k ]
+25 k + k 1
+26 print l
+27 print newline
+28 if k < 10 goto 22
+29 exit 0

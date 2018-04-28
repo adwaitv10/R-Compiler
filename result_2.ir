@@ -1,0 +1,12 @@
+1 Array a 40
+2 a [ 0 ] = 4
+3 k = 1
+4 i = 15
+5 a [ k ] = i
+6 i + i 12
+7 l = a [ k ]
+8 k + k 1
+9 print l
+10 print newline
+11 if k < 10 goto 5
+12 exit 0

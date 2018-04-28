@@ -1,0 +1,27 @@
+• Assignment
+– x op y z
+– x op y
+– x = y
+
+• Jump
+– goto L
+– if x relop y goto L
+
+• Indexed assignment
+– x = y[i]
+– x[i] = y
+
+• Function
+– param x
+– call p,n
+– return y
+
+• Pointer
+– x = &y
+– x = *y
+– *x = y
+
+Array id size
+
+print x
+scan x
