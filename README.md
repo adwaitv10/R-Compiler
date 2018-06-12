@@ -1,1 +1,1 @@
-python CodeGen.py result.ir
+python codepy exampleir
